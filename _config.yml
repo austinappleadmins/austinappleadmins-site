@@ -1,0 +1,91 @@
+# # # # # # # # # # # # #
+#   K i k o - p l u s   #
+# # # # # # # # # # # # #
+
+# Basic
+name:               "Austin Apple Admins"
+
+author:
+  facebook:         austinappleadmins
+  twitter:          austinappleadmn
+  #github:           your-id
+  linkedin:         6974270
+  #medium:           your-id
+  #tumblr:           your-id
+  email:            hello@austinappleadmins.org
+  calendar:         yes
+  eventbrite:       yes
+
+copyright:
+  year:             2017
+  name:             Austin Apple Admins
+
+# Google-analytics
+google-analytics:
+  id:               "UA-91003068-1"
+
+# Disqus
+disqus:
+  id:               "austinappleadmins"
+
+# URL
+url:                "http://www.austinappleadmins.org/" # the base hostname & protocol for your site
+# url:                "http://localhost:4000" # use this url when you develop
+baseurl:            "" # the subpath of your site, e.g. /blog
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           America/Chicago
+permalink:          /:year-:month-:day/:title/
+
+# Pagination
+paginate:           5
+paginate_path:      /page:num/
+
+# Markdown
+markdown:           kramdown
+kramdown:
+  input:            GFM
+
+# Navigation
+nav:
+  - name:           "About"
+    url:            "/about"
+  - name:           "Archive"
+    url:            "/archive"
+  - name:           "Hosting"
+    url:            "https://goo.gl/forms/cKaOxNaMgm0N8M4c2"
+  - name:           "Speaking"
+    url:            "https://goo.gl/forms/SlplkdmkkyKpG7982"
+  - name:           "Calendar"
+    url:            "https://calendar.google.com/calendar/embed?src=austinappleadmins.org_lteuqsasq6fondipofutlpvfps%40group.calendar.google.com&ctz=America/Chicago"
+  - name:           "Code of Conduct"
+    url:            "/code-of-conduct"
+
+# Sass
+sass:
+  sass_dir:         _sass
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+gems:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-admin
+
+exclude:            [vendor]

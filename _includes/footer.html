@@ -1,0 +1,43 @@
+<!-- Documents about icons are here: http://fontawesome.io/icons/ -->
+<div class="footer">
+  <hr />
+  <div class="footer-link">
+    {% if site.author.facebook %}
+    <a href="https://www.facebook.com/{{ site.author.facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if site.author.twitter %}
+    <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if site.author.github %}
+    <a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if site.author.linkedin %}
+    <a href="https://www.linkedin.com/groups/{{ site.author.linkedin }}" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if site.author.medium %}
+    <a href="https://medium.com/@{{ site.author.medium }}" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if site.author.tumblr %}
+    <a href="https://{{ site.author.tumblr }}.tumblr.com" target="_blank"><i class="fa fa-tumblr" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if site.author.eventbrite %}
+    <a href="https://www.eventbrite.com/o/austin-apple-admins-8635386513" target="_blank"><i class="fa fa-handshake-o" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if site.author.calendar %}
+    <a href="https://goo.gl/2TUFjl" target="_blank"><i class="fa fa-calendar" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if site.author.email %}
+    <a href="mailto:{{ site.author.email }}"  target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    {% endif %}
+
+  </div>
+  © {{ site.copyright.year }} {{ site.copyright.name }}. All rights reserved.
+</div>
