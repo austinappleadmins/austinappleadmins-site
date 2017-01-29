@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "February 21, 2018 - Meetup at WeWork, The Domain"
+title: "February 21, 2017 - Meetup at WeWork, The Domain"
 description: "We're happy to announce our Februrary 2017 meetup at WeWork at The Domain, co-sponsored by The Domain Apple Store Business Team and Jamf Software."
 date: 2017-01-28
 tags: [meetup]
