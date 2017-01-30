@@ -5,7 +5,7 @@ permalink: /about/
 
 # Austin Apple Admins 
 
-<img src="/austinappleadmins/assets/images/aaa.png" alt="Austin Apple Admins" style="width: 200px;align: center;" />
+<img src="/assets/images/aaa.png" alt="Austin Apple Admins" style="width: 200px;align: center;" />
 
 Our goal is simple: to create a social network of Apple admins in and around Austin and Central Texas. We continually strive for this network to facilitate the sharing of knowledge, the ability to grow and learn, to foster professional development, bolster camaraderie amongst peers, and have some fun along the way.
 
@@ -38,6 +38,8 @@ Periodically we organize happy hours or general social outings so that members o
 * [The Beer Plant](http://www.thebeerplant.com)
 * [Fado Austin](http://www.fadoirishpub.com/austin/)
 * [Geeks Who Drink](http://www.geekswhodrink.com/venue?id=199270)
+* [Mean-Eyed Cat](http://themeaneyedcat.com/)
+* [Black Star Co-op](http://www.blackstar.coop/)
 
 ### Speaking & Hosting
 
