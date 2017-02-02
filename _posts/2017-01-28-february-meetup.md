@@ -24,4 +24,5 @@ The WeWork Domain location sits in the heart of the Domain Norhside, on the co
 Our office is located on the far north end of the Domain. To access to our space, please park in the Green Parking Lot (across the street from Whole Foods). Once parked, take the elevator to the 4th floor and take the breezeway connecting the parking lot to the building, this will gain you direct access to our space.
 </blockquote>
 
-<a href="http://www.eventbrite.com/e/austin-apple-admins-february-meetup-wework-tickets-31723206966?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=31723206966" alt="Eventbrite - Austin Apple Admins February Meetup @ WeWork" /></a>
+
+<div align="center"><a href="http://www.eventbrite.com/e/austin-apple-admins-february-meetup-wework-tickets-31723206966?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=31723206966" alt="Eventbrite - Austin Apple Admins February Meetup @ WeWork" /></a></div>
