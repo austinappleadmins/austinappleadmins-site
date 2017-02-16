@@ -14,7 +14,20 @@ February 21, 2018 - Meetup at WeWork, The Domain.
 
 Hello everyone! We're happy to announce our next meetup is taking place on February 21st, 2017, at the wonderful [WeWork at The Domain in Austin](https://www.wework.com/buildings/domain--austin--TX). [Allister Banks](https://github.com/arubdesu) will be our guest presenter. Food and drink will be provided.
 
-More information about WeWork:
+## Agenda
+
+* 7:00pm - Arrive and Mingle
+* 7:30pm - Welcomes and Introductions
+* 7:45pm - A word or two from our sponsors (Jordan Danz, Apple Biz &#64; The Domain; Mike Lim, Jamf Software; WeWork)
+* 8:00pm - Alister Banks, "Give a talk at PSU MacAdmins this year!"
+* 8:30pm - Q&A, Open Discussion
+
+### About Allister's talk:
+
+<blockquote>This is one of those meta talks that can go horribly wrong. So bring fruit to throw, because Allister's giving a non-technical talk! There will also be other things squeezed in that have been banging around his head.
+</blockquote>
+
+### Information about WeWork:
 
 <blockquote>
 WeWork provides freelancers, startups, and businesses of all sizes with beautiful workspace, inspiring community, and meaningful services. With weekly events, personalized support, flexibility, and access to thousands of like-minded entrepreneurs around the world - WeWork is the perfect place to grow your business in 2017.
