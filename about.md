@@ -13,7 +13,7 @@ Our goal is simple: to create a social network of Apple admins in and around Aus
 
 We share information and connect with our colleagues using the following social networks:
 
-* Twitter: [https://www.twitter.com/austinappleadmn](https://www.twitter.com/austinappleadmin)
+* Twitter: [https://twitter.com/austinappleadmn](https://twitter.com/austinappleadmn)
 * Facebook: [https://www.facebook.com/austinappleadmins](https://www.facebook.com/austinappleadmins)
 * LinkedIn: [https://www.linkedin.com/groups/6974270](https://www.linkedin.com/groups/6974270)
 * Slack: [https://macadmins.slack.com/archives/austin](https://macadmins.slack.com/archives/austin)
