@@ -19,7 +19,7 @@ Hello everyone! We're happy to announce our next meetup is taking place on Febru
 * 7:00pm - Arrive and Mingle
 * 7:30pm - Welcomes and Introductions
 * 7:45pm - A word or two from our sponsors (Jordan Danz, Apple Biz &#64; The Domain; Mike Lim, Jamf Software; WeWork)
-* 8:00pm - Alister Banks, "Give a talk at PSU MacAdmins this year!"
+* 8:00pm - Allister Banks, "Give a talk at PSU MacAdmins this year!"
 * 8:30pm - Q&A, Open Discussion
 
 ### About Allister's talk:
