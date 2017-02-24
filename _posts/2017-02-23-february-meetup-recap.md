@@ -18,7 +18,7 @@ Hey y'all! It was great to see so many of you out at WeWork this week for our ev
 ![Austin Apple Admins February 2017 WeWork](/assets/images/aaa-feb2017.JPG)
 
 
-Many thanks to [Allister Banks](https://github.com/arubdesu) for being our guest presenter, and to Jamf for providing pizza! [WeWork](https://www.wework.com/buildings/domain--austin--TX) also had beer on tap that many of us enjoyed. What a great space!
+Many thanks to [Allister Banks](http://www.aru-b.com/) for being our guest presenter, and to Jamf for providing pizza! [WeWork](https://www.wework.com/buildings/domain--austin--TX) also had beer on tap that many of us enjoyed. What a great space!
 
 Here are my introductory slides:
 
