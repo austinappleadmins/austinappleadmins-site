@@ -18,6 +18,7 @@ We share information and connect with our colleagues using the following social 
 * LinkedIn: [https://www.linkedin.com/groups/6974270](https://www.linkedin.com/groups/6974270)
 * Slack: [https://macadmins.slack.com/archives/austin](https://macadmins.slack.com/archives/austin)
 * Google Calendar: [https://goo.gl/WwYdQ2](https://goo.gl/WwYdQ2)
+* TinyLetter: [https://www.tinyletter.com/austinappleadmins](https://www.tinyletter.com/austinappleadmins)
 
 ### Meetups
 
