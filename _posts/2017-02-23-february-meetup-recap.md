@@ -3,6 +3,7 @@ layout: post
 title: "February Meetup Recap & Resources"
 description: "Thank you to everyone that came out to WeWork for our February Meetup! Here are the resources from the event."
 date: 2017-02-23
+image: /assets/images/aaa-feb2017.JPG
 tags: [meetup]
 comments: true
 share: true
