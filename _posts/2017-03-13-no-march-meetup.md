@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enjoy SXSW! No meetup this month"
+title: "Enjoy SXSW! No meetup this month."
 description: "Enjoy the craziness of SXSW. We'll announce our April meetup soon."
 date: 2017-03-13
 tags: [news]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Enjoy SXSW! No meetup this month
+Enjoy SXSW! No meetup this month.
 
 --- 
 
@@ -16,10 +16,12 @@ Hey y'all! As we mentioned in our last update, we will be skipping a March meetu
 
 In the meantime, we recommend you consider submitting talks to some upcoming conferences!
 
-[MacDevOps](https://macdevops.ca/) – June 5-6, 2017, Vancouver Canada, [Early Bird Tickets](https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443) are CAD $265 til March 11th
+[MacDevOps](https://macdevops.ca/) – June 5-6, 2017, Vancouver Canada, [Early Bird Tickets](https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443) are CAD $265 til March 11, 2017.
 
 [MacDeployment](https://macdeployment.ca/) – June 8-9, 2017, Calgary Canada, Tickets available soon.
 
-[Penn State Macadmins Conference](http://macadmins.psu.edu/conference) – [Call for Proposals open](http://macadmins.psu.edu/conference/submit-proposals/)! until April 4th
+[Penn State Macadmins Conference](http://macadmins.psu.edu/conference) – [Call for Proposals open](http://macadmins.psu.edu/conference/submit-proposals/)! until April 4, 2017.
+
+[X World](http://auc.edu.au/xworld/about/) - June 29-30, 2017, Syndey, Australia. [Call for presenters is now open](http://auc.edu.au/xworld/cfp) and closes April 24, 2017.
 
 If you'd like to speak at a future meetup in Austin please [let us know](https://goo.gl/forms/SlplkdmkkyKpG7982).
