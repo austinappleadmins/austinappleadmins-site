@@ -22,6 +22,6 @@ An agenda will be posted prior to the event.
 
 Registration is now available on [Jamf Nation](https://www.jamf.com/jamf-nation/events/user-groups/167/austin-apple-admins-hostgator-may-16?view=info) and by using the EventBrite details below.
 
-<div align="center"><a href="https://www.eventbrite.com/e/austin-apple-admins-hostgator-tickets-34110436233?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=34110436233" alt="Eventbrite - Austin Apple Admins @ HostGator" /></a></div>
+<div align="center"><a href="https://www.eventbrite.com/e/austin-apple-admins-hostgator-tickets-34110436233?ref=ebtnebregn"><img src="https://www.eventbrite.com/custombutton?eid=34110436233" alt="Eventbrite - Austin Apple Admins @ HostGator" /></a></div>
 
 If you'd like to speak at a future meetup in Austin please [let us know](https://goo.gl/forms/SlplkdmkkyKpG7982).
