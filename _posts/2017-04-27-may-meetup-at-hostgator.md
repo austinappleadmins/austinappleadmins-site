@@ -16,7 +16,7 @@ Good news, everyone!
 
 <div align="center"><img src="https://media.giphy.com/media/kpo0V5y88hEqs/giphy.gif" alt="Good news, everyone!" /></div>
 
-We're happy to announce our next meetup on May 16th, 2017, at [HostGator](http://www.hostgator.com/about)! Erik Gomez will be joining us to gives his talk "Open Source and MDM". Food and drinks will be provided.
+We're happy to announce our next meetup on May 16th, 2017, at [HostGator](http://www.hostgator.com/about)! [Erik Gomez](http://blog.eriknicolasgomez.com/) from [Pinterest](https://about.pinterest.com/en) will be joining us to give his talk "Open Source and MDM". Food and drinks will be provided.
 
 An agenda will be posted prior to the event.
 
