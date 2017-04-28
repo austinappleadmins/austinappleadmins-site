@@ -5,7 +5,8 @@
 # Basic
 name:               "Austin Apple Admins"
 
-author: name
+author: 
+  name:             Austin Apple Admins
   facebook:         austinappleadmins
   twitter:          austinappleadmn
   #github:           your-id
