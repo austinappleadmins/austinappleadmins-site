@@ -18,7 +18,15 @@ Good news, everyone!
 
 We're happy to announce our next meetup on May 16th, 2017, at [HostGator](http://www.hostgator.com/about)! [Erik Gomez](http://blog.eriknicolasgomez.com/) from [Pinterest](https://about.pinterest.com/en) will be joining us to give his talk "Open Source and MDM". Food and drinks will be provided.
 
-An agenda will be posted prior to the event.
+## Agenda
+
+* 7:00pm - Arrive, Mingle, Pizza
+* 7:30pm - Welcomes and introductions with our sponsor HostGator
+* 7:45pm - Erik Gomez, “Open Source and MDM”
+* 8:20pm - Joel Rennich, NoMAD and DEPNotify update
+* 8:30pm - Q&A, open discussion
+
+## Registration 
 
 Registration is now available on [Jamf Nation](https://www.jamf.com/jamf-nation/events/user-groups/167/austin-apple-admins-hostgator-may-16?view=info) and by using the EventBrite details below.
 
