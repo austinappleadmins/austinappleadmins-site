@@ -18,7 +18,12 @@ What's up Jamf peeps?! Our next meetup is on November 20th, 2017, at [Trusource 
 
 ## Agenda
 
-TBA
+6:30pm - Arrive, mingle, eat tacos<br />
+7:00pm - [Emily Kausalik (Austin Apple Admins)](https://www.linkedin.com/in/emilykausalik/), Introductions<br />
+7:05pm - [David Kennedy (Jamf)](https://www.linkedin.com/in/kennedydave/), Jamf Pro 10 demo<br />
+7:35pm - Q&A<br />
+7:50pm - [Alex Torres (Trusource Labs)](https://www.jamf.com/jamf-nation/users/40725/alextorres?view=Recent), Working with the Jamf Pro API<br />
+8:15pm - Q&A, Open Discussion, more tacos
 
 ## Registration
 
