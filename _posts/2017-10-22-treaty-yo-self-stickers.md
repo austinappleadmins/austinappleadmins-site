@@ -30,9 +30,9 @@ On the PayPal Me donation page you can send as little or as much as you'd like. 
 
 <div align="center"><a href="https://www.paypal.me/modtitan/5" target="_blank"><img src="/assets/images/donate-with-paypal.jpg" style="width:300px; max-width:100%;" /></a></div>
 
-**Stock Update, 2017-11-07**<br />
-Texas Apple Admins 2017 - SOLD OUT!<br />
-Austin Apple Admins 2017 - 15<br />
+**Stock Update, 2017-11-21**<br />
+Texas Apple Admins 2017 - 14<br />
+Austin Apple Admins 2017 - 6<br />
 
 I will update this page when the stickers are gone! Admittedly this is a very low-fi way to do this, but if merch is something people are really interested in I'll look into setting up a shop in the future. (I'm happy to send internationally, just help me out with an extra dollar or two donation to compensate for the expense.) Thanks everyone!
 
