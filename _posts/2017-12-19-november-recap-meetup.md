@@ -12,7 +12,7 @@ December 19, 2017 - November Meetup Recap and Resources
 
 ---
 
-Thanks to everyone that came out on November 20th for our last meetup at [Trusource Labs](https://www.trusourcelabs.com/)! It was great to hear from David Kennedy ([Jamf](https://www.jamf.com/) and Joel Rennich ([NoMAD](https://nomad.menu/)), and doubly-great to have tacos and Topo Chico (thanks Jamf!). Keep reading for the resources and recorded video from the meetup.
+Thanks to everyone that came out on November 20th for our last meetup at [Trusource Labs](https://www.trusourcelabs.com/)! It was great to hear from David Kennedy ([Jamf](https://www.jamf.com/)) and Joel Rennich ([NoMAD](https://nomad.menu/)), and doubly-great to have tacos and Topo Chico (thanks Jamf!). Keep reading for the resources and recorded video from the meetup.
 
 ## Slide Deck
 
