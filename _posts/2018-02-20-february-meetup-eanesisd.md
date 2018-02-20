@@ -18,10 +18,10 @@ Hey everyone! Our next meetup is on February 28, 2018, at [Eanes ISD](http://www
 
 ## Agenda
 
-* 6:00pm - Arrive, Mingle, Pizza
-* 6:30pm - Welcomes and introductions with our host Eanes ISD
-* 6:35pm - Bryson Tyrrell, Remote presentation on patch management with scripting and Jamf Pro
-* 7:20pm - Q&amp;A, open discussion
+* 6:30pm - Arrive, Mingle, Pizza
+* 7:00pm - Welcomes and introductions with our host Eanes ISD
+* 7:15pm - Bryson Tyrrell, Remote presentation on patch management with scripting and Jamf Pro
+* 8:15pm - Q&amp;A, open discussion
 
 ## Registration
 
