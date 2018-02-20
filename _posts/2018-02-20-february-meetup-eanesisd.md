@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-February 19, 2018 - February Meetup at Eanes ISD
+February Meetup at Eanes ISD
 
 ---
 
