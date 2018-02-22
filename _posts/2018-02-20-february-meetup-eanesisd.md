@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "February 20, 2018 - February Meetup at Eanes ISD"
+title: "February 28, 2018 - Meetup at Eanes ISD"
 description: "Bryson Tyrrell talks Patch Management at our February Meetup in Eanes ISD."
 date: 2018-02-20
 tags: [news]
@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-February 19, 2018 - February Meetup at Eanes ISD
+February Meetup at Eanes ISD
 
 ---
 
