@@ -31,10 +31,7 @@ Apple and Cisco have been working together creating deeply co-engineered feature
 
 ## Monitoring Jamf Pro Cluster with DataDog - Mike Donovan
 
-Datadog is a monitoring and visualization tool that allows you see critical metrics across systems, apps, and services, aggregating metrics and events across the full devops stack.
- 		Automation tools
- 		Monitoring and instrumentation
- 		Databases and common server components including Tomcat
+Datadog is a monitoring and visualization tool that allows you see critical metrics across systems, apps, and services, aggregating metrics and events across the full devops stack - Automation tools - Monitoring and instrumentation - Databases and common server components including Tomcat
 
 ## Registration
 
