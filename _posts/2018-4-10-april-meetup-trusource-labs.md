@@ -29,7 +29,7 @@ Hey Austin Apple Admins! Our next meetup is on April 25, 2018, at [Trusource Lab
 
 Apple and Cisco have been working together creating deeply co-engineered features. We'll talk about how to leverage fast-roaming, app prioritization and device analytics. You’ll also learn how to secure your mobile devices by gaining visibility to where they are connecting and avoiding phishing threats, regardless of their location. Finally, we’ll see how these networking and security features enhance collaboration.   
 
-## Monitoring Jamf Pro Cluster with DataDog - Mike Donovan
+## Monitoring Your Jamf Pro Cluster with DataDog - Mike Donovan
 
 Datadog is a monitoring and visualization tool that allows you see critical metrics across systems, apps, and services, aggregating metrics and events across the full devops stack - Automation tools - Monitoring and instrumentation - Databases and common server components including Tomcat
 
