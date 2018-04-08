@@ -27,7 +27,7 @@ Hey Austin Apple Admins! Our next meetup is on March 25, 2018, at [Trusource Lab
 
 ## Apple | Cisco: Optimizing Networks and Securing Your Mobile Users - Ben Nemeth
 
-Apple and Cisco have made our products work better together with deeply co-engineered features. We'll talk about how to leverage fast-roaming, app prioritization and device analytics. You’ll also learn how to secure your mobile devices by gaining visibility to where they are connecting and avoiding phishing threats, regardless of their location. Finally, we’ll see how these networking and security features enhance collaboration.   
+Apple and Cisco have been working together creating deeply co-engineered features. We'll talk about how to leverage fast-roaming, app prioritization and device analytics. You’ll also learn how to secure your mobile devices by gaining visibility to where they are connecting and avoiding phishing threats, regardless of their location. Finally, we’ll see how these networking and security features enhance collaboration.   
 
 ## Monitoring Jamf Pro Cluster with DataDog - Mike Donovan
 
