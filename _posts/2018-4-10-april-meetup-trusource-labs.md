@@ -8,11 +8,11 @@ comments: true
 share: true
 ---
 
-March 10, 2018 - April meetup will be on 4/25 at Trusource Labs
+April 11, 2018 - April meetup will be on 4/25 at Trusource Labs
 
 ---
 
-<div align="center"><img src="https://media.giphy.com/media/17F71l9QaQ6ru/giphy.gif" /></div>
+<div align="center"><img src="/assets/images/aprilmeetup_2018.jpg" style="width:500px; max-width:100%;" /></div>
                          
 Hey Austin Apple Admins! Our next meetup is on April 25, 2018, at [Trusource Labs](https://www.trusourcelabs.com/)! Ben Nemeth of [Apple](https://www.apple.com/) will talk about all things wonderful going on with Apple and Cisco. Later, our very own Mike Donovan from [Killeen ISD](https://www.killeenisd.org/frontPageV3/) will show us how he monitors his Jamf Pro cluster with [DataDog](https://www.datadoghq.com). Food and drinks will be provided.
 
