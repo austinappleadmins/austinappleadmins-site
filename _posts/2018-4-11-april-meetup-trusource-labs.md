@@ -22,7 +22,7 @@ Hey Austin Apple Admins! Our next meetup is on April 25, 2018, at [Trusource Lab
 7:00pm - [Chris Miller (Eanes ISD)](https://www.linkedin.com/in/chris-miller-27551212/), Introductions<br />
 7:05pm - [Ben Nemeth (Apple)](https://www.linkedin.com/in/bennemeth/), Optimizing and Securing Networks with Apple & Cisco<br />
 7:35pm - Q&A<br />
-7:50pm - [Mike Donovan [Killeen ISD](https://www.jamf.com/jamf-nation/users/14393/m-donovan), Monitoring Jamf Pro Clusters with [DataDog](https://www.datadoghq.com)<br />
+7:50pm - Mike Donovan [Killeen ISD](https://www.jamf.com/jamf-nation/users/14393/m-donovan), Monitoring Jamf Pro Clusters with [DataDog](https://www.datadoghq.com)<br />
 8:15pm - Q&A, Open Discussion
 
 ## Apple | Cisco: Optimizing Networks and Securing Your Mobile Users - Ben Nemeth
