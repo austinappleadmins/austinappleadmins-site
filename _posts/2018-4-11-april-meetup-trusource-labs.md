@@ -2,7 +2,7 @@
 layout: post
 title: "April Meetup 4/25 at Trusource Labs"
 description: “Optimizing networks with Apple and Cisco | Monitoring Jamf Pro Clusters with DataDog”
-date: 2018-04-10
+date: 2018-04-11
 tags: [news]
 comments: true
 share: true
