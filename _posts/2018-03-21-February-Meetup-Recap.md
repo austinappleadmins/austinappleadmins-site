@@ -19,7 +19,7 @@ Below are the assets from the meetup, including the main deck and a recording of
 
 ### Facebook Live Feed
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/austinappleadmins/videos/1638601939553804F&show_text=0&width=560" width="800" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faustinappleadmins%2Fvideos%2F1638601939553804%2F&show_text=0&width=560" width="800" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ### Until next time...
 
