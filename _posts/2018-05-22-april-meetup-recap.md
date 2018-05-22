@@ -44,7 +44,7 @@ https://www.datadoghq.com
 
 Apple | Cisco Technical Links - Here are some of the links to the white papers and resources that Ben referred to in his presentation.
 
-[Apple | Cisco Wireless Best Practices Technical White paper] (https://www.cisco.com/c/dam/en/us/td/docs/wireless/controller/technotes/8-6/Enterprise_Best_Practices_for_iOS_devices_and_Mac_computers_on_Cisco_Wireless_LAN.pdf)
+[Apple | Cisco Wireless Best Practices Technical White paper](https://www.cisco.com/c/dam/en/us/td/docs/wireless/controller/technotes/8-6/Enterprise_Best_Practices_for_iOS_devices_and_Mac_computers_on_Cisco_Wireless_LAN.pdf)
 
 [Benefits of Wi-Fi Optimization](https://www.cisco.com/c/dam/en/us/products/collateral/wireless/cisco-on-cisco-so-r4.pdf)
 
