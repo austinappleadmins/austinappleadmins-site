@@ -44,23 +44,22 @@ https://www.datadoghq.com
 
 Apple | Cisco Technical Links - Here are some of the links to the white papers and resources that Ben referred to in his presentation.
 
-Apple | Cisco Wireless Best Practices Technical White paper
-https://www.cisco.com/c/dam/en/us/td/docs/wireless/controller/technotes/8-6/Enterprise_Best_Practices_for_iOS_devices_and_Mac_computers_on_Cisco_Wireless_LAN.pdf
+[Apple | Cisco Wireless Best Practices Technical White paper] (https://www.cisco.com/c/dam/en/us/td/docs/wireless/controller/technotes/8-6/Enterprise_Best_Practices_for_iOS_devices_and_Mac_computers_on_Cisco_Wireless_LAN.pdf)
 
-Benefits of Wi-Fi Optimization
-https://www.cisco.com/c/dam/en/us/products/collateral/wireless/cisco-on-cisco-so-r4.pdf
+[Benefits of Wi-Fi Optimization](https://www.cisco.com/c/dam/en/us/products/collateral/wireless/cisco-on-cisco-so-r4.pdf)
 
-Integration of Voice and Collaboration
-https://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/integrating-voice-and-collaboration.pdf
 
-Apple | Cisco - Cisco Validated Design - Mobile Heartbeat 
-https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Healthcare/CVD-Adopting-FastLane-Clinical-Comm-MobileHeartbeat-2017JUN.pdf
+[Integration of Voice and Collaboration](https://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/integrating-voice-and-collaboration.pdf)
 
-Apple | Cisco - Cisco Validated Design - PatientSafe 
-https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Healthcare/CVD-Adopting-FastLane-Clinical-Comm-PatientSafe-2017JUN.pdf
 
-Cisco Security Connector 
-https://www.cisco.com/c/en/us/products/security/security-connector/index.html
+[Apple | Cisco - Cisco Validated Design Mobile Heartbeat](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Healthcare/CVD-Adopting-FastLane-Clinical-Comm-MobileHeartbeat-2017JUN.pdf) 
 
-Benefits of Wi-Fi Optimization
-https://www.cisco.com/c/dam/en/us/products/collateral/wireless/cisco-on-cisco-so-r4.pdf
+
+[Apple | Cisco Validated Design PatientSafe](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Healthcare/CVD-Adopting-FastLane-Clinical-Comm-PatientSafe-2017JUN.pdf)
+
+
+[Cisco Security Connector](https://www.cisco.com/c/en/us/products/security/security-connector/index.html)
+
+
+[Benefits of Wi-Fi Optimization](https://www.cisco.com/c/dam/en/us/products/collateral/wireless/cisco-on-cisco-so-r4.pdf)
+
