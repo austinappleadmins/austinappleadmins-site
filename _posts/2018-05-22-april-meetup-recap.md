@@ -35,8 +35,8 @@ If you'd like to speak at a future meetup in Austin please [let us know](https:/
 ### Resources
 
 Datadog
-See inside any stack, any app, at any scale, anywhere. For more about Datadog's monitoring & analytics:
-https://www.datadoghq.com
+See inside any stack, any app, at any scale, anywhere. For more about Datadog's monitoring & analytics:[click here](https://www.datadoghq.com)
+
 
 
 ————————————————————————————
