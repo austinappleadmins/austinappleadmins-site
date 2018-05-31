@@ -14,7 +14,7 @@ Below are the assets from the meetup, including the main deck and a recording of
 
 ### Main deck
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXKUMp9oDfejogZs7HXp6hL0ypRBGTptynUwkMf8aKizpJVQTn5lSppdevLk6KhazBjU0xdOx-S7sm/embed?start=false&loop=false&delayms=3000" frameborder="0" width=“800” height=“474” allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXKUMp9oDfejogZs7HXp6hL0ypRBGTptynUwkMf8aKizpJVQTn5lSppdevLk6KhazBjU0xdOx-S7sm/embed?start=false&loop=false&delayms=3000" frameborder="0" width="593" height="474" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Mike Donovan - Monitoring Jamf Pro Clusters with Datadog!
 
@@ -44,7 +44,7 @@ See inside any stack, any app, at any scale, anywhere. For more about Datadog's 
 
 Apple | Cisco Technical Links - Here are some of the links to the white papers and resources that Ben referred to in his presentation.
 
- - [Apple | Cisco Wireless Best Practices Technical White paper](https://www.cisco.com/c/dam/en/us/td/docs/wireless/controller/technotes/8-6/Enterprise_Best_Practices_for_iOS_devices_and_Mac_computers_on_Cisco_Wireless_LAN.pdf)
+ - [Apple - Cisco Wireless Best Practices Technical White paper](https://www.cisco.com/c/dam/en/us/td/docs/wireless/controller/technotes/8-6/Enterprise_Best_Practices_for_iOS_devices_and_Mac_computers_on_Cisco_Wireless_LAN.pdf)
 
  - [Benefits of Wi-Fi Optimization](https://www.cisco.com/c/dam/en/us/products/collateral/wireless/cisco-on-cisco-so-r4.pdf)
 
@@ -52,10 +52,10 @@ Apple | Cisco Technical Links - Here are some of the links to the white papers a
  - [Integration of Voice and Collaboration](https://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/integrating-voice-and-collaboration.pdf)
 
 
- - [Apple | Cisco - Cisco Validated Design Mobile Heartbeat](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Healthcare/CVD-Adopting-FastLane-Clinical-Comm-MobileHeartbeat-2017JUN.pdf) 
+ - [Apple - Cisco - Cisco Validated Design Mobile Heartbeat](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Healthcare/CVD-Adopting-FastLane-Clinical-Comm-MobileHeartbeat-2017JUN.pdf) 
 
 
- - [Apple | Cisco Validated Design PatientSafe](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Healthcare/CVD-Adopting-FastLane-Clinical-Comm-PatientSafe-2017JUN.pdf)
+ - [Apple - Cisco Validated Design PatientSafe](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Healthcare/CVD-Adopting-FastLane-Clinical-Comm-PatientSafe-2017JUN.pdf)
 
 
  - [Cisco Security Connector](https://www.cisco.com/c/en/us/products/security/security-connector/index.html)
