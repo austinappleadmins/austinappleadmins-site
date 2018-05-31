@@ -33,6 +33,6 @@ PCL 2.370 - PCL Learning Lab 1A <br />
 
 ## Registration
 
-Registration is now available on [Jamf Nation](https://www.jamf.com/jamf-nation/events/user-groups/210/austin-apple-admins-april-meetup-4-25-at-trusource-labs) 
+Registration is now available on [Jamf Nation](https://www.jamf.com/jamf-nation/events/user-groups/216/austin-apple-admins-april-meetup-6-20-at-the-university-of-texas-at-austin) 
 
 If you'd like to speak at a future meetup in Austin please [let us know](https://goo.gl/forms/SlplkdmkkyKpG7982).
