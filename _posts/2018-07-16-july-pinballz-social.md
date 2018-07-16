@@ -12,7 +12,7 @@ July 19, 2018 - Pinballz Social
 
 ---
 
-Hey y'all! We're pleased to announce our next event at <a href="https://goo.gl/maps/XtQAetKMEBn" target="_blank">Pinballz Lake Creek</a> this Thursday, July 16th, 2018, at 7pm.
+Hey y'all! We're pleased to announce our next event at <a href="https://goo.gl/maps/XtQAetKMEBn" target="_blank">Pinballz Lake Creek</a> this Thursday, July 19th, 2018, at 7pm.
 
 <div align="center"><img src="https://media3.giphy.com/media/w6GUikODdL5ks/giphy.gif" /></div>
 
