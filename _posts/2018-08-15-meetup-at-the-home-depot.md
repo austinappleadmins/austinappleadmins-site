@@ -24,7 +24,7 @@ Check back closer to the meetup for news about the speakers and a buttoned-up ag
 7:00pm - [Emily Kausalik-Whittle](https://www.linkedin.com/in/emilykausalik/) (Austin Apple Admins/[The Home Depot](https://careers.homedepot.com/career-areas/technology-careers/)), Introductions<br />
 7:05pm - [Chris Miller](https://www.linkedin.com/in/chris-miller-27551212/) ([Eanes ISD](https://www.eanesisd.net/dept/tech/staff)), Digital Signage on Apple TV with the Tightrope App<br />
 7:35pm - Q&A<br />
-7:50pm - TBA<br />
+7:50pm - Emily Kausalik-Whittle, Building MDM and DEP enabled VMs<br />
 8:15pm - Q&A, Open Discussion, more 🍕
 
 ## Registration
