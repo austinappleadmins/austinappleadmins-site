@@ -20,7 +20,7 @@ Hey everyone! This month's meetup hosted by [Cloudflare](https://www.cloudflare.
 
 6:30pm - Arrive, mingle, eat 🍕<br />
 7:00pm - [Chris Miller](https://www.linkedin.com/in/chris-miller-27551212/), Introductions<br />
-7:05pm -Guest Speaker, Apple Platform Security Update
+7:05pm -Guest Speaker, Apple Platform Security Update<br />
 8:05pm - Q&A<br />
 8:20pm - Open Discussion, more 🗣
 
