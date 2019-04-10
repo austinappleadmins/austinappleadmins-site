@@ -25,11 +25,14 @@ PCL 2.370 - PCL Learning Lab 1A <br />
 
 6:30pm - Arrive, mingle, eat!<br />
 7:00pm - [Chris Miller (Eanes ISD)](https://www.linkedin.com/in/chris-miller-27551212/), Introductions<br />
-7:15pm - [Todd Stabelfeldt](https://toddstabelfeldt.com), Changing Lives with Universal Design<br />
+7:15pm - [Todd Stabelfeldt](https://toddstabelfeldt.com), Game Changer: What the World Uses for Convenience Restores Independence
 7:55pm - Q&A<br />
 8:10pm - Frank Callaham [Apple](https://www.apple.com/education/), Higher Ed Update <br />
 9:00pm - Q&A, Open Discussion
 
+#### Todd Stabelfeldt | Game Changer: What the World Uses for Convenience Restores Independence
+
+ This session will include a demonstration and group discussion Q&A regarding technology and how it brought independence to my life.
 
 ## Registration
 
