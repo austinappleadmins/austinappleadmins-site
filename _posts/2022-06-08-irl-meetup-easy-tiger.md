@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "June 9 - IRL Meetup at Easy Tiger"
-description: "Let's happy hour it up at Easy Tiger on Airport!. June 9th, 2022, 4-?."
+description: "Let's happy hour it up at Easy Tiger on Airport! June 9th, 2022, 4-?."
 date: 2022-06-08
 tags: [news]
 comments: true
