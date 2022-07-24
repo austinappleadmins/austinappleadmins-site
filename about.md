@@ -35,6 +35,7 @@ Every 1-2 months, we organize and coordinate a meetup involving 1-2 presenters a
 
 Periodically we organize happy hours or general social outings so that members of the community can socialize and commiserate without involving a more formal presentation-style meeting. Past venues include:
 
+* [Easy Tiger](https://www.easytigerusa.com/location/north/)
 * [Punch Bowl Social](http://www.punchbowlsocial.com/location/austin)
 * [The Beer Plant](http://www.thebeerplant.com)
 * [Fado Austin](http://www.fadoirishpub.com/austin/)
