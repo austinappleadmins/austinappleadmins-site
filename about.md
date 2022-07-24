@@ -7,7 +7,7 @@ permalink: /about/
 
 <img src="/assets/images/aaa.png" alt="Austin Apple Admins" style="width: 200px;align: center;" />
 
-We exist to support the social network of Apple IT professionals in the Austin, TX, area and Central Texas. Our mission is to facilitate the sharing of knowledge, provide space for Apple IT professionals to grow and learn, to foster professional development, bolster camaraderie amongst peers, and ensure open and equal access to all community resources regardless of economic status.
+We exist to support the social network of Apple IT professionals around Central Texas through events hosted in Austin, TX. Our mission is to facilitate the sharing of knowledge, provide space for Apple IT professionals to grow and learn, foster professional development, bolster camaraderie amongst peers, and ensure open and equal access to all community resources regardless of economic status.
 
 ### Social Media
 
