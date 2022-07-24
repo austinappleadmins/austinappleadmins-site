@@ -7,7 +7,7 @@ permalink: /about/
 
 <img src="/assets/images/aaa.png" alt="Austin Apple Admins" style="width: 200px;align: center;" />
 
-Our goal is simple: to create a social network of Apple admins in and around Austin and Central Texas. We continually strive for this network to facilitate the sharing of knowledge, the ability to grow and learn, to foster professional development, bolster camaraderie amongst peers, and have some fun along the way.
+We exist to support the social network of Apple IT professionals in the Austin, TX, area and Central Texas. Our mission is to facilitate the sharing of knowledge, provide space for Apple IT professionals to grow and learn, to foster professional development, bolster camaraderie amongst peers, and ensure open and equal access to all community resources regardless of economic status.
 
 ### Social Media
 
