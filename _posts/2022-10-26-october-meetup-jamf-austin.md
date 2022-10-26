@@ -28,6 +28,9 @@ With the recent release of macOS Ventura (and iPadOS 16) the hot topic of the ev
 ## Venue Information
 
 - [Jamf's new corporate office in Austin](https://goo.gl/maps/KbWtEAhm7cT69vup9) sits off of Arboretum Blvd. as a part of the larger complex known as The Arboretum at Great Hills. The main entrance is located in the front of Arboretum Plaza II, facing the surface lot parking. <br />
+
+<div align="center"><img src="/assets/images/jamf-austin-location.png" /></div>
+
 - The surface parking lot and nearby street should have plenty of parking open this time of day. The nearby garage is also available; make sure to only park in spots that are **not** reserved for other businesses.<br />
 - Enter through the glass door and walk past the elevators to enter the second door on the right. You should see the reception desk with a big Jamf logo on it.<br />
 - One of the hosts will meet you at the door. **Registration in the Envoy app on the reception iPad is required for entering the office space.** Please sign in as a Guest and choose `Emily Kausalik` as the host.
