@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-<div align="center"><img src="/assets/images/october-2022-group-photo.jpg" /></div>
+<div align="center"><img src="/assets/images/oct-2022-group-photo.jpg" /></div>
 
 Thank you to everyone that came out for this month's return to in-person meetups at [Jamf's](https://www.jamf.com/contact/) Austin office. Special thanks to the [Jamf Nation User Group](https://community.jamf.com/t5/user-groups/ct-p/jamf-user-groups) program from the Community team for providing pizza 🍕 and drinks 🥤!
 
