@@ -18,7 +18,7 @@ author:
   eventbrite:       yes
 
 copyright:
-  year:             2017
+  year:             2023
   name:             Austin Apple Admins
 
 # Google-analytics
@@ -64,6 +64,8 @@ nav:
     url:            "https://calendar.google.com/calendar/embed?src=austinappleadmins.org_lteuqsasq6fondipofutlpvfps%40group.calendar.google.com&ctz=America/Chicago"
   - name:           "Code of Conduct"
     url:            "/code-of-conduct"
+  - name:           "Store"
+    url:            "https://www.bonfire.com/store/austin-apple-admins/"
 
 # Sass
 sass:
