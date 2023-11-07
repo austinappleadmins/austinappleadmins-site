@@ -9,6 +9,7 @@ share: true
 ---
 
 November 14 - Join us at Austin Capital Bank
+![logo](https://github.com/BoscoATX/austinappleadmins-site/assets/33436259/45edbde7-2384-43a6-86e0-1e2b9ee0c4ea)
 
 ---
 
