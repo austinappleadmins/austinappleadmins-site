@@ -30,8 +30,4 @@ We'd love to hear from you! If you have a topic to share please <a href="mailto:
 
 If you'd like to speak at a future meetup in Austin please [let us know](https://goo.gl/forms/SlplkdmkkyKpG7982).
 
-## Upcoming meetups
-
-We're super happy to announce that meetups in 2019 will happen at a regular cadence on the **third Wedneday of every month**. Odd months will be happy hours, and even months will be presentation-based meetups.
-
 [Subscribe to the Austin Apple Admins calendar](https://goo.gl/2TUFjl) to keep up with upcoming events.
