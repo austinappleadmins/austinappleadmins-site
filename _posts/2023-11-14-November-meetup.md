@@ -2,7 +2,7 @@
 layout: post
 title: "November 14 - Join us at Austin Capital Bank"
 description: "The next Austin Apple Admins meetup will be at Austin Capital Bank offices."
-date: 2023-11-14
+date: 2023-11-06
 tags: [news]
 comments: true
 share: true
