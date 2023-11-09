@@ -17,7 +17,7 @@ November 14 - Join us at Austin Capital Bank
 
 Greetings! Please join us on Tuesday, November 14th for our next meetup hosted by [Austin Capital Bank](https://maps.app.goo.gl/2R7qZ1MKd7pWsyzM8). Chris Miller will be doing an informal demo of Platform SSO on Sonoma with MSFT Entra 
 
-We'd love to hear from you! If you have a topic to share please <a href="mailto:emily@austinappleadmins.org">reach out to Emily</a> and we'll add it to the agenda.
+We'd love to hear from you! If you have a topic to share please <a href="mailto:events@austinappleadmins.org?subject=Speaking on November 14th">reach out</a> and we'll add it to the agenda.
 
 ## Agenda
 
